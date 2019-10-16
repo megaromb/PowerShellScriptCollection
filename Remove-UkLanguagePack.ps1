@@ -1,0 +1,1 @@
+.\Remove-LanguagePack.ps1 -languageTagToRemove 'uk'

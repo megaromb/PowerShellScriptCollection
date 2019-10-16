@@ -1,0 +1,1 @@
+.\Add-LanguagePack.ps1 -languageTagToAdd 'uk'
